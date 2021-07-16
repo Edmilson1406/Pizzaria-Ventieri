@@ -1,0 +1,420 @@
+#body {
+    background-image: url(../imagens/download\ \(3\).jpg) 
+    
+    
+    
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+    img.displayed1 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto }
+
+  img.displayed2 {
+            display: block;
+            margin-left: auto;
+            margin-right: auto }
+img.displayed3 {
+                display: block;
+                margin-left: auto;
+                margin-right: auto }
+img.displayed4 {
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto }
+img.displayed5 {
+                        display: block;
+                        margin-left: auto;
+                        margin-right: auto }
+p { color: black; } 
+p { font-style: italic; }
+#titulo{
+
+background-color: #FFD700;
+text-align: center;
+}
+
+div.botao1
+{
+    text-align: center;
+    color: #FFD700;
+    font-size: 25px;
+    background-color: #FFD700;
+    border-color: #FFD700;
+}
+div.botao2
+{
+    text-align: center;
+    color: #FFD700;
+    font-size: 25px;
+    background-color: #FFD700;
+    border-color: #FFD700;
+}
+
+div.botao3
+{
+    text-align: center;
+    color: #FFD700;
+    font-size: 25px;
+    background-color: #FFD700;
+    border-color: #FFD700;
+}
+div.botao4
+{
+    text-align: center;
+    color: #FFD700;
+    font-size: 25px;
+    background-color: #FFD700;
+    border-color: #FFD700;
+}
+
+#body1 {
+    background-image: url(../imagens/download\ \(1\).jpg)    
+    
+    
+}
+
+
+#titulo1{
+    font-style: italic;
+    font-size: 64px; 
+    background-color: #FFD700;
+    
+    
+    
+   
+   
+}
+#titulo11{
+    text-align: center;
+}
+div.botao11
+{
+    font-size: 25px;
+    
+    font-weight: bold;
+ text-align: center;
+  background-color: #FFD700;
+  border-color: #FFD700;
+}
+div.botao21
+{
+    font-size: 25px;
+    
+    font-weight: bold;
+ text-align: center;
+  background-color: #FFD700;
+  border-color: #FFD700;
+}
+div.botao31
+{
+    font-size: 25px;
+    
+    font-weight: bold;
+ text-align: center;
+  background-color: #FFD700;
+  border-color: #FFD700;
+}
+
+#titulo1{
+    background-color: #FFD700;
+}
+
+#body2 {
+    background-image: url(../imagens/download\ \(2\).jpg)    
+    
+    
+}
+#titulo2
+{
+    font-style: italic;
+    font-size: 64px; 
+    background-color: #FFD700;
+    text-align: center;
+    font-weight: bold;
+    
+
+    
+}
+#contato2
+{
+    background-color: #FFD700;
+    font-style: italic;
+    font-size: 32px;
+    text-align: center;
+
+}
+div.iframe1{
+    align-self: center;
+    padding-left: 375px;
+}
+
+#body3 {
+    background-image: url(../imagens/download\ \(4\).jpg)    
+    
+    
+}
+#titulo3
+{
+    text-align: center;
+    font-style: italic;
+    font-size: 64px; 
+    background-color: #FFD700;
+    
+
+}
+#historia3
+{
+    background-color: #FFD700;
+    font-style: italic;
+    font-size: 20px;
+    color: black; 
+    text-align: justify;
+    
+
+}
+
+#imagem3
+{
+    border-style: outset;
+    border-color:#FFD700;
+    border-width: 16px;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#aa3
+{
+    background-color: #FFD700;
+    font-style: italic;
+    font-size: 20px;
+    color: black; 
+    text-align: center; 
+    
+
+}
+
+#body4 {
+    background-image: url(../imagens/download\ \(5\).jpg)    
+    
+    
+}
+#titulo4
+{
+    text-align: center;
+    font-style: italic;
+    font-size: 64px; 
+    background-color: #FFD700;
+    
+}
+#aval4
+{
+
+    background-color: #FFD700;
+    text-align: left; 
+    
+    
+}
+
+#body5 {
+    background-image: url(../imagens/download\ \(10\).jpg)    
+    
+    
+}
+#titulo5{
+    text-align: center;
+        font-style: italic;
+        font-size: 64px; 
+        background-color: #FFD700;
+       
+       
+}
+
+div.form5 {
+    background-color: #FFD700;
+    
+    
+        
+    text-align: left;
+    font-size: 22px;
+    padding-left: 34px;
+}
+
+#sabor15{
+    background-color: #FFD700;
+    
+    padding-left: 34px;
+}
+
+div.sabor25{
+    
+    background-color: #FFD700;
+    
+    padding-left: 34px;
+}
+
+#sabor35{
+    font-size: 24px;
+    
+}
+#sabor45{
+    font-size: 24px;
+    
+}
+
+
+
+#body6 {
+    background-image: url(../imagens/pizza-doce-de-ate-3-ingredientes.jpg);    
+    
+    
+}
+#titulo6{
+    font-style: italic;
+    font-size: 64px; 
+    background-color: #FFD700;
+    text-align: center;
+    
+   
+}
+
+div.form6 {
+background-color: #FFD700;
+
+
+text-align: left;
+font-size: 22px;
+padding-left: 34px;
+}
+
+#sabor16{
+background-color:#FFD700;
+
+padding-left: 34px;
+}
+
+div.sabor26{
+
+background-color: #FFD700;
+
+padding-left: 34px;
+}
+
+#sabor36{
+font-size: 24px;
+
+}
+#sabor66{
+    font-size: 24px;
+    
+    }
+
+#body7 {
+
+
+    background-image: url(../imagens/pizzas-meio-a-meio-doce.jpg);    
+    
+}
+
+#titulo7{
+    font-style: italic;
+    font-size: 64px; 
+    background-color: #FFD700;
+    text-align: center;
+    
+   
+}
+
+div.form7 {
+background-color: #FFD700;
+
+
+text-align: left;
+font-size: 22px;
+padding-left: 34px;
+}
+
+#sabor17{
+background-color: #FFD700;
+
+padding-left: 34px;
+}
+
+div.sabor27{
+
+background-color: #FFD700;
+
+padding-left: 34px;
+}
+
+#sabor37{
+font-size: 24px;
+
+}
+#sabor47{
+    font-size: 24px;
+    
+    }
+
+div.table1{
+    background-color: #7FFF00;
+    width: 80%;
+   height: 70px;
+   text-align: center;
+   border-color: #8A2BE2;
+   border-width: 500px;
+   padding-left: 400px;
+    padding-right: 300px;
+}
+
+div.table{
+    align-self: center;
+    border-color: #8A2BE2;
+    
+    
+    width: 90%;
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 300px;
+    
+   
+}
+thead {
+    font-size: 40px;
+}
+
+th {
+    background-color: #FFD700;
+
+border-color: #8A2BE2;
+border-width: 500px;
+    color: #000000;
+    
+   height: 50px;
+}
+
+tr {
+    background-color: #FFD700;
+
+border-color: #8A2BE2;
+border-width: 500px;
+font-size: 20px;
+    color: #000000;
+    
+}
+#tituolo11
+{
+    text-align: center;
+}
+
+#validacao{
+    background-color: #FFD700;
+    text-align: center;
+}
